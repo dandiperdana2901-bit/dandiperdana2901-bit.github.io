@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.dandiperdana2901_bit.twa",
+        "sha256_cert_fingerprints": ["F7:42:83:5F:AC:1B:3A:22:0A:EA:EE:CF:1E:3D:A8:D3:C3:C1:41:EF:1A:B6:73:D7:A0:28:1F:AD:16:AD:01:24"]
+      }
+    }]
